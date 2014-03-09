@@ -1,0 +1,9 @@
+'menu': [
+  {
+    'label': 'Selection'
+    'submenu': [
+      'label': 'Increment'
+      'command': 'increment-selection:increment'
+    ]
+  }
+]
