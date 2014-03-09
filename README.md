@@ -7,4 +7,4 @@ Select a block of text and hit `ctrl-shift-i` to replace it with incrementing nu
 
 ## Demo
 
-![](http://i.imgur.com/uepi2Ll.gif)
+![](http://i.imgur.com/jREjrBU.gif)
