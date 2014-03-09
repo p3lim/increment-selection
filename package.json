@@ -1,9 +1,11 @@
 {
   "name": "increment-selection",
   "main": "./lib/increment-selection",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Increments your current selected line(s)",
-  "activationEvents": ["increment-selection:increment"],
+  "activationEvents": [
+    "increment-selection:increment"
+  ],
   "repository": "https://github.com/p3lim/increment-selection",
   "license": "MIT",
   "engines": {
