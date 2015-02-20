@@ -1,6 +1,6 @@
 module.exports =
   activate: ->
-    atom.workspaceView.command 'increment-selection:increment', '.editor', ->
+    atom.workspaceView.command 'increment-selection:increment', '.atom-text-editor', ->
       incrementSelection atom.workspaceView.getActivePaneItem()
 
 incrementSelection = (editor) ->
