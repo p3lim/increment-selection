@@ -1,7 +1,7 @@
 {
   "name": "increment-selection",
   "main": "./lib/increment-selection",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Increments your current selected line(s)",
   "activationEvents": [
     "increment-selection:increment"
