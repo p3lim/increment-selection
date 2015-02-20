@@ -1,2 +1,2 @@
-'.atom-text-editor':
+'atom-text-editor':
   'ctrl-shift-i': 'increment-selection:increment'
