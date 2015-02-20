@@ -9,7 +9,7 @@
   "repository": "https://github.com/p3lim/increment-selection",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">0.181.0"
   },
   "dependencies": {}
 }
