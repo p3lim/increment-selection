@@ -1,7 +1,7 @@
 {
   "name": "increment-selection",
   "main": "./lib/increment-selection",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Increments your current selected line(s)",
   "activationCommands": {
     "atom-workspace": "increment-selection:increment"
